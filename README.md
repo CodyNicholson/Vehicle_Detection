@@ -186,7 +186,7 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 Image before heat mapping:
 
-![alt text](before_heatmap.png)
+![alt text](output_files/before_heatmap.png)
 
 Heat map before thresholding:
 
